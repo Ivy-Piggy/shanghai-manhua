@@ -1,0 +1,11 @@
+# GitHub Pages configuration
+title: 上海漫画与中国漫画百年 · 论文资料索引
+description: 上海漫画与中国漫画百年研究 —— 论文资料索引与研究档案
+baseurl: "/shanghai-manhua"
+url: "https://ivy-piggy.github.io"
+theme: null
+markdown: kramdown
+exclude:
+  - scripts/
+  - Gemfile
+  - Gemfile.lock
