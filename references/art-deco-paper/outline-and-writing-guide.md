@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 摩登上海：漫画的Art Deco装饰语法 — 大纲与撰稿指南
 ---
 
